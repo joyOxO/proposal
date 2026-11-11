@@ -28,13 +28,13 @@ Minimal Viable Outcome:
 ## Milestones
 
 - Week 1
-  1. Create background.
-  2. Create Bubbles.
+  1. Import and code the Randomizer.
+  2. Create the Fish. (At least 3 Kinds?)
 
 - Week 2
-  1. Create the Fish. (At least 3 Kinds?)
-  2. Import and code the Randomizer.
-
-- Week N (Final)
   1. Make the Fish Swim.
   2. Make the Fish Interactable.
+
+- Week N (Final)
+  1. Create background.
+  2. Create Bubbles.
